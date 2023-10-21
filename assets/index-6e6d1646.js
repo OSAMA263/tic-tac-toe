@@ -77,7 +77,7 @@ Error generating stack: `+o.message+`
   grid-template-rows: ${({cols_rows:e})=>`repeat(${e},minmax(0,1fr))`};
 `,v0=No.div`
   display: flex;
-  height: 100dvh;
+  height: 100dvh
   justify-content: center;
   align-items: center;
   width:100vw;
