@@ -81,4 +81,4 @@ Error generating stack: `+o.message+`
   justify-content: center;
   align-items: center;
   width:100vw;
-`;function g0(){const e=Hn();return H.jsxs(H.Fragment,{children:[H.jsxs(Xm,{location:e,children:[H.jsx(Sl,{path:"/",element:H.jsx(d0,{})}),H.jsx(Sl,{path:"/page1",element:H.jsx(um,{})}),H.jsx(Sl,{path:"/page2",element:H.jsx(sm,{})})]},e.pathname),H.jsx(_a,{to:"/page1",children:"page1"}),H.jsx(_a,{to:"/page2",children:"pag-2"})]})}si.createRoot(document.getElementById("root")).render(H.jsx(Zt.StrictMode,{children:H.jsx(nv,{basename:"/",children:H.jsx(g0,{})})}));
+`;function g0(){const e=Hn();return H.jsxs(H.Fragment,{children:[H.jsxs(Xm,{location:e,children:[H.jsx(Sl,{path:"/",element:H.jsx(d0,{})}),H.jsx(Sl,{path:"/page1",element:H.jsx(um,{})}),H.jsx(Sl,{path:"/page2",element:H.jsx(sm,{})})]},e.pathname),H.jsx(_a,{to:"/page1",children:"page1"}),H.jsx(_a,{to:"/page2",children:"pag-2"})]})}si.createRoot(document.getElementById("root")).render(H.jsx(Zt.StrictMode,{children:H.jsx(nv,{basename:"/tic-tac-toe/",children:H.jsx(g0,{})})}));
